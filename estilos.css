@@ -1,0 +1,430 @@
+*{font-family: 'Work Sans', sans-serif;}
+
+#fondorosa{
+    background-color: #f6cee6;
+    padding-bottom: 100px;
+    padding-top: 40px;
+ }
+
+header{
+    margin-top: 80px;
+}
+
+.elementomenu a{
+    font-size: 18px;
+    color: #2B292D;
+}
+
+.active a{
+    font-weight: bold;
+}
+
+.nav-item{
+    margin-left: 40px;
+}
+
+header h1{
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 78px;
+    color: #2B292D; 
+    
+}
+
+header p{
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+    color: #2B292D;
+    margin-top:40px;
+}
+
+header button.btn{
+    padding: 10px 40px 10px 40px;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #3040C4;
+    margin-right: 20px;
+}
+
+/*Fila 2*/
+
+.fila2 p{
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #2B292D;
+    margin-top: 20px;
+}
+
+.fila2{
+    margin-top:80px;
+}
+
+.fila2 button.btn-link{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #3041C4;
+
+}
+
+/*Fila 3*/
+
+.fila3{
+    margin-top: 80px;
+
+}
+.fila3 h2{
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #2B292D;
+
+}
+
+.fila3 p{
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #2B292D;
+    margin-top: 20px;
+}
+
+.fila4{
+    margin-top: 80px;
+}
+
+.fila4 h4{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+    color: #2B292D;
+}
+
+.fila4 p{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;    
+    color: #2B292D;
+    
+}
+
+.fila4 button .btn-link{
+font-weight: bold;
+font-size: 18px;
+line-height: 26px;
+text-decoration-line: underline;
+color: #3040C4;
+
+}
+
+.subfila{
+    margin-top: 40px;
+}
+
+/*Fila5*/
+
+#fondoverde{
+    background-color: #D3E9EF;
+    padding-bottom: 100px;
+    padding-top: 40px;
+    margin-top: 80px;
+}
+
+.fila5 h4{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    color: #3142C6;
+    margin-top: 80px;
+}
+
+.parrafofila5 p{
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #2B292D;
+    margin-top: 40px;
+    padding: 0px 150px 0px 150px;
+
+}
+
+.parrafo2fila5 p{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #2B292D;
+    
+}
+
+.parrafo2fila5 span{
+    font-weight: bold;
+    color: rgba (43, 41, 41, 0.6);
+}
+
+.fila6{
+    margin-top: 120px;
+
+}
+
+.fila6 h4{
+    font-size: 22px;
+    font-weight: bold ;
+    color: rgba(128, 127, 129, 0.6);
+}
+
+.fila6 h2{
+    font-size: 56px;
+    font-weight: bold;
+    color: #2b292d;
+}
+
+.fila6{
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: normal;
+    color: #2b292d;
+    margin-top: 40px;
+}
+
+.fila6 button.btn{
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color:#3040c4;
+    padding: 10px 40px 10px 40px;
+}
+
+.fila6 span{
+    font-size: 14px;
+    font-weight: normal;
+    color: rgba(43, 41, 45, 0.6);
+}
+
+.fila7{
+    margin-top: 80px;
+
+}
+
+.fila7 p{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    color: #2B292D;
+}
+
+.fila7 button.btn-link{
+    padding: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration:underline;
+    color: #3040c4;
+}
+
+/*Fila8*/
+.fila8{
+    margin-top: 80px;
+}
+
+.fila8 h3{
+    font-size: 24px;
+    font-weight: bold;
+    color: #2b292d;
+    margin-bottom: 80px;
+}
+
+.fila8 h5{
+    font-size: 18px;
+    font-weight: bold;
+    color:#2b292d;
+}
+
+.fila8 p{
+    font-size: 18px;
+    font-weight: normal;
+    color: #2b292d;
+    line-height: 26px;
+
+}
+
+.fila8 button.btn-link{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0px;
+    text-decoration:underline;
+    color: #3040c4;
+}
+
+/*Fila9*/
+
+#fondogris{
+    background-color:#F4F5F7;
+    padding-top:80px;
+    padding-bottom: 80px;
+    margin-top:80px;
+}
+
+.fila9 h2{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.25px;
+    color: #2B292D;
+}
+
+.fila9 p{
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    color: #2B292D;
+    
+}
+
+/*Footer*/
+
+Footer p{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgba(43, 41, 45, 0.6);
+    margin: 30px 0px 30px 0px;
+    
+}
+
+footer{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+Footer h5{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 28px;
+    color: #2B292D;
+}
+
+.redes{
+    text-align: right;
+}
+
+/*Responsive tablet*/
+
+@media screen and (max-width:768px){
+
+    header img{
+        width: 100%;
+    }
+
+    .fila6 img{
+        width:100%
+    }
+
+    .fila5 img{
+        width: 100%;
+    }
+
+    Footer img{
+        width: 100%;
+    }
+
+    .redes img{
+        width: 30% !important;
+    }
+}
+
+/*Responsive móvil*/
+
+@media screen and (max-width:432px){
+
+    .navbar-brand{
+        width: 70%;
+    }
+
+    .navbar-brand img{
+        width: 100%;
+    }
+
+    header .btn{
+        margin-bottom: 40px;
+    }
+
+    header img{
+        margin-top: 40px;
+    }
+
+    .fila2 img{
+        margin-top: 40px;
+    }
+
+    .fila4 img{
+        margin-top: 40px;
+    }
+
+    .fila5 img{
+        width: 50%;
+        margin-top: 40px;
+    }
+
+    .parrafofila5 p{
+        padding: 0px;
+     
+    }
+
+    .fila6 img{
+        margin-top: 40px;
+    }
+
+    .fila7 p{
+        margin-top: 40px;
+    }
+
+    .subfila{
+        margin-top: 40px;
+    }
+
+    .fila9 h2{
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    Footer h5{
+        margin-top: 40px;
+    }
+
+    .redes{
+        text-align: left;
+    }
+
+}
+
+/*Efectos Hover*/
+
+a .nav-link:hover{
+    color: #3040c4 !important;
+    transition: 0.4s;
+}
+
+button.btn:hover{
+    background-color: #ffffff !important;
+    color: #3040C4 !important;
+    border: 1px solid #3040C4 !important;
+}
+
+button.btn-link:hover{
+    background-color: transparent !important;
+    color: #2B292D !important ;
+    border: none !important;
+
+}
